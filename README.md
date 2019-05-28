@@ -1,1 +1,22 @@
 # windows-software-backup
+
+ - ditto： 剪切板管理
+ - listory： 快速搜索
+ - mathpix snipping tool： 数学公式转latex
+ - translucentTB： 任务栏透明
+ - VSO downloader： 视频音乐下载
+ - stretchly: 休息
+ - xshell： 远程连接
+ - teamviewer： 远程连接
+ - vscode
+ - pycharm
+ - onenote
+ - pandownload.com
+ - xx-net
+ - easyconnect
+ - VLC media player
+ - 7zip
+ - typora
+ - notepadd++
+ - sublime text
+ - robo3t: mongodb
